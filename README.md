@@ -1,2 +1,2 @@
-# Health-Analyzer
-Aplicação desenvolvida em Java para cálculo e análise de indicadores relacionados à saúde.
+# BodyForge
+Sistema pessoal para registro e análise de alimentação, treinamento e evolução física ao longo do tempo.
